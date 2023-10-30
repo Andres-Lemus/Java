@@ -1,0 +1,6 @@
+dev\aeld\sga\domain\Usuario.class
+dev\aeld\sga\domain\Persona.class
+dev\aeld\sga\servicio\PersonaServiceRemote.class
+dev\aeld\sga\cliente\ClientePersonaService.class
+SgaJee.class
+dev\aeld\sga\cliente\PruebaManejoTransacciones.class
